@@ -5,7 +5,5 @@ This repo contains **handpicked coding problems** solved in **C language**, usef
 - 💻 Competitive programming
 
 Each problem includes:
-- Problem statement (in English + Tamil)
-- Approach / Logic explanation
+- Approach / Logics 
 - C Program code
-- Sample input & output
